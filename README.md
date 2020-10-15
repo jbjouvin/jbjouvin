@@ -1,3 +1,7 @@
-# Jean-Baptiste Jouvin
+# Jean-Baptiste
 
-[¯\_(ツ)_/¯](https://jbjouvin.github.io/)
+* 50 % Geek
+* 50 % Beer
+* 10 % StarCraft
+
+[site](https://jbjouvin.github.io/)
